@@ -31,7 +31,7 @@ Suggested free services, which the team still has to confirm against current lim
 
 | Piece | Service |
 | --- | --- |
-| App | One free Python host (the Dockerfile runs the API and the built interface) |
+| App | One free Python 3 host (the Dockerfile runs the API and the built interface) |
 | Database | [Neon](https://neon.tech) Postgres free tier |
 | Model | Gemini API free tier, model `gemini-3.5-flash-lite` |
 
